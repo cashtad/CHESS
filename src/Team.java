@@ -1,0 +1,3 @@
+enum Team {
+    WHITE,BLACK
+}
