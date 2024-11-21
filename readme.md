@@ -18,5 +18,6 @@ https://github.com/user-attachments/assets/550d552d-0446-438c-b11e-445ea4a6b367
 ![image](https://github.com/user-attachments/assets/9a654a4c-0afb-4d3c-9b1a-f382f0ff5f42)
 ![image](https://github.com/user-attachments/assets/644f0251-5884-4116-9085-31405283ab65)
 
-
+#How to play
+Make sure that u have installed java 17, then simply open run.cmd and enjoy!
 
